@@ -1,0 +1,55 @@
+{
+  "name": "equipes",
+  "equipes": [
+    {
+      "name": "Fnactis",
+      "country": "europe",
+      "birthDate": "2008",
+      "tournoisDone": "15",
+      "type": "pro",
+      "logo": "Fnactis.png"
+    },
+    {
+      "name": "Ogsc2",
+      "country": "france",
+      "birthDate": "2000",
+      "tournoisDone": "40",
+      "type": "amateur",
+      "logo": "og.jpg"
+    },
+
+    {
+      "name": "samsung",
+      "country": "korea",
+      "birthDate": "2002",
+      "tournoisDone": "38",
+      "type": "pro",
+      "logo": "samsung.jpeg"
+    },
+    {
+      "name": "millenium",
+      "country": "france",
+      "birthDate": "2005",
+      "tournoisDone": "10",
+      "type": "amateur",
+      "logo": "millenium.png"
+    },
+
+    {
+      "name": "Skt",
+      "country": "korea",
+      "birthDate": "2003",
+      "tournoisDone": "28",
+      "type": "pro",
+      "logo": "skt.png"
+    },
+    {
+      "name": "LdvEsport",
+      "country": "france",
+      "birthDate": "2010",
+      "tournoisDone": "4",
+      "type": "amateur",
+      "logo": "ldv.png"
+    }
+  ]
+}
